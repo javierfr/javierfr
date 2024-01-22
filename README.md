@@ -20,7 +20,7 @@
             <li>Otras Habilidades: <strong>[Otras habilidades]</strong></li>
         </ul>
         <h2>📈 Estadísticas de GitHub</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
+        <img src="https://github-readme-stats.vercel.app/api?username=javierfr&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
         <h2>🔗 Enlaces</h2>
         <a href="tu-enlace-de-portfolio" class="badge portfolio-badge">Portfolio</a>
         <a href="tu-enlace-de-linkedin" class="badge linkedin-badge">LinkedIn</a>
