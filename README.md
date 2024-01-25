@@ -1,6 +1,9 @@
 <body>
     <div class="container">
         <h1>Hola, soy <span>Tu Nombre</span> 👋</h1>
+        <p align="center">
+          <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things](https://eco-invitaciones.com/github_javier/assets/images/SoyJavier.gif)"></a>
+        </p>
         <h2>🚀 Sobre Mí</h2>
         <p>Soy un apasionado desarrollador de software con especial interés en [tu especialidad]. Me encanta crear soluciones innovadoras y eficientes.</p>
         <ul>
