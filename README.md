@@ -1,33 +1,40 @@
-<body>
-    <div class="container">
-        <h1>Hola, soy <span>Tu Nombre</span> 👋</h1>
-        <p align="center">
-          <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things](https://eco-invitaciones.com/github_javier/assets/images/SoyJavier.gif)"></a>
-        </p>
-        <h2>🚀 Sobre Mí</h2>
-        <p>Soy un apasionado desarrollador de software con especial interés en [tu especialidad]. Me encanta crear soluciones innovadoras y eficientes.</p>
-        <ul>
-            <li>🌱 Actualmente estoy aprendiendo <strong>[Tecnología o habilidad]</strong></li>
-            <li>👯 Busco colaborar en <strong>[Tipo de proyectos]</strong></li>
-            <li>🤔 Busco ayuda con <strong>[Algo específico]</strong></li>
-            <li>💬 Pregúntame sobre <strong>[Temas específicos]</strong></li>
-            <li>📫 Cómo contactarme: <strong>[Tu correo electrónico]</strong></li>
-            <li>😄 Pronombres: <strong>[Tus pronombres]</strong></li>
-            <li>⚡ Datos curiosos: <strong>[Dato curioso]</strong></li>
-        </ul>
-        <h2>🛠 Habilidades</h2>
-        <ul>
-            <li>Lenguajes de Programación: <strong>[Lenguajes]</strong></li>
-            <li>Herramientas y Tecnologías: <strong>[Herramientas y tecnologías]</strong></li>
-            <li>Bases de Datos: <strong>[Bases de datos]</strong></li>
-            <li>Otras Habilidades: <strong>[Otras habilidades]</strong></li>
-        </ul>
-        <h2>📈 Estadísticas de GitHub</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=javierfr&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-        <h2>🔗 Enlaces</h2>
-        <a href="tu-enlace-de-portfolio" class="badge portfolio-badge">Portfolio</a>
-        <a href="tu-enlace-de-linkedin" class="badge linkedin-badge">LinkedIn</a>
-        <a href="tu-enlace-de-twitter" class="badge twitter-badge">Twitter</a>
-        <p>¡Gracias por visitar mi perfil de GitHub!</p>
-    </div>
-</body>
+<p align="center">
+  <img src="https://eco-invitaciones.com/github_javier/assets/images/soy_javier_grey.gif" width="50%" />
+</p>
+
+## 🚀 About Me
+
+I'm a software developer with a passion for learning new technologies. I love solving problems and creating innovative solutions.
+
+## Skills
+
+- Programming Languages: Python, JavaScript, Java
+- Frameworks: Django, React, Spring Boot
+- Databases: MySQL, PostgreSQL, MongoDB
+
+## Projects
+
+Here you can find some of the projects I have worked on:
+
+1. [Project 1](#) - Description of project 1
+2. [Project 2](#) - Description of project 2
+3. [Project 3](#) - Description of project 3
+
+## Contact
+
+If you want to contact me, you can send me an email at [myemail@example.com](mailto:myemail@example.com).
+
+<p align="center">
+  <a href="mailto:myemail@example.com">
+    <img src="https://example.com/email_icon.png" alt="Email" width="30px"/>
+  </a>
+  <a href="https://twitter.com/my_username">
+    <img src="https://example.com/twitter_icon.png" alt="Twitter" width="30px"/>
+  </a>
+  <a href="https://linkedin.com/in/my_username">
+    <img src="https://example.com/linkedin_icon.png" alt="LinkedIn" width="30px"/>
+  </a>
+  <a href="https://github.com/my_username">
+    <img src="https://example.com/github_icon.png" alt="GitHub" width="30px"/>
+  </a>
+</p>
