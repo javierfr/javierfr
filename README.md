@@ -22,19 +22,16 @@ Here you can find some of the projects I have worked on:
 
 ## Contact
 
-If you want to contact me, you can send me an email at [myemail@example.com](mailto:myemail@example.com).
+If you want to contact me, you can send me an email at [myemail@example.com](mailto:javier_fr@outlook.com).
 
 <p align="center">
-  <a href="mailto:myemail@example.com">
+  <a href="mailto:javier_fr@outlook.com">
     <img src="https://example.com/email_icon.png" alt="Email" width="30px"/>
-  </a>
-  <a href="https://twitter.com/my_username">
-    <img src="https://example.com/twitter_icon.png" alt="Twitter" width="30px"/>
   </a>
   <a href="https://linkedin.com/in/my_username">
     <img src="https://example.com/linkedin_icon.png" alt="LinkedIn" width="30px"/>
   </a>
-  <a href="https://github.com/my_username">
+  <a href="https://github.com/javierfr">
     <img src="https://example.com/github_icon.png" alt="GitHub" width="30px"/>
   </a>
 </p>
