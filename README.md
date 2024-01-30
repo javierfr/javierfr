@@ -16,9 +16,9 @@ I´m an application developer passionate about innovation, always willing to acq
 
 Here you can find some of the projects I have worked on:
 
-1. [Project 1](#) - Description of project 1
-2. [Project 2](#) - Description of project 2
-3. [Project 3](#) - Description of project 3
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javierfr&locale=en&hide_title=false&layout=compact&card_width=320&theme=ambient_gradient&hide_border=false&order=2" height="150" />
+</div>
 
 ## Contact
 
