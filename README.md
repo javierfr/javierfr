@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer with a passion for learning new technologies. I love solving problems and creating innovative solutions.
+I´m an application developer passionate about innovation, always willing to acquire new skills and knowledge to create unique and functional digital experiences.
 
 ## Skills
 
