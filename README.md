@@ -22,7 +22,7 @@ Here you can find some of the projects I have worked on:
 
 ## Contact
 
-If you want to contact me, you can send me an email at [myemail@example.com](mailto:javier_fr@outlook.com).
+If you want to contact me, you can send me an email at [javier_fr@outlook.com](mailto:javier_fr@outlook.com).
 
 <p align="center">
   <a href="mailto:javier_fr@outlook.com">
